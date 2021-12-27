@@ -19,7 +19,7 @@ import com.learning.jilani.model.Match;
 public class MatchItemProcessor implements ItemProcessor<MatchInput, Match> {
 
 	
-	private static final Logger log = LoggerFactory.getLogger(MatchItemProcessor.class);
+	
 	
 	@Override
 	public Match process(MatchInput item) throws Exception {
