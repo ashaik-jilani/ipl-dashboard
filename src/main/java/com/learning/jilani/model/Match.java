@@ -31,6 +31,7 @@ public class Match {
 	private String	method;
 	private String	umpire1;
 	private String	umpire2;
+	
 	/**
 	 * @return the umpire1
 	 */
